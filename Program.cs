@@ -14,10 +14,15 @@
             //Program2 p2 = new Program2();
             //p2.StoreAndPrintArrayInReverse();
 
-            Console.WriteLine("P3- Find the sum of all array elements");
+            //Console.WriteLine("P3- Find the sum of all array elements");
+            //Console.WriteLine("----------------------------------------------------------");
+            //Program3 p3 = new Program3();
+            //p3.SumOfElementsInArray();
+
+            Console.WriteLine("P4- Copy the elements of one array into another array");
             Console.WriteLine("----------------------------------------------------------");
-            Program3 p3 = new Program3();
-            p3.SumOfElementsInArray();
+            Program4 p4 = new Program4();
+            p4.CopyArrayToAnotherArray();
         }
     }
 }
