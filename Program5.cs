@@ -42,16 +42,16 @@ namespace DNDPractice_CSharpArrayExercises
                     countArray[index1] = 0;
                 }
             }
-            Console.WriteLine("The Count Of Duplicate Elements in the Array: ");
-            Console.WriteLine("-------------------------------------------------------");
-            Console.WriteLine("Element  -   Count");
+            
+            int duplicateCount = 0;
             for (int index = 0; index < array.Length; index++)
             {
-                if (countArray[index] != 0)
+                if (countArray[index] > 1)
                 {
-                    Console.WriteLine($"{array[index]}      -      {countArray[index]}");
+                    duplicateCount++;
                 }
             }
+            Console.WriteLine($"The Count Of Duplicate Elements in the Array is: {duplicateCount}");
             Console.WriteLine();
         }
     }
