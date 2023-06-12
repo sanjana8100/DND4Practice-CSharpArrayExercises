@@ -1,0 +1,15 @@
+C:\Users\INS 5570\source\repos\DNDPractice-CSharpArrayExercises\DNDPractice-CSharpArrayExercises\bin\Debug\net6.0\DNDPractice-CSharpArrayExercises.exe
+C:\Users\INS 5570\source\repos\DNDPractice-CSharpArrayExercises\DNDPractice-CSharpArrayExercises\bin\Debug\net6.0\DNDPractice-CSharpArrayExercises.deps.json
+C:\Users\INS 5570\source\repos\DNDPractice-CSharpArrayExercises\DNDPractice-CSharpArrayExercises\bin\Debug\net6.0\DNDPractice-CSharpArrayExercises.runtimeconfig.json
+C:\Users\INS 5570\source\repos\DNDPractice-CSharpArrayExercises\DNDPractice-CSharpArrayExercises\bin\Debug\net6.0\DNDPractice-CSharpArrayExercises.dll
+C:\Users\INS 5570\source\repos\DNDPractice-CSharpArrayExercises\DNDPractice-CSharpArrayExercises\bin\Debug\net6.0\DNDPractice-CSharpArrayExercises.pdb
+C:\Users\INS 5570\source\repos\DNDPractice-CSharpArrayExercises\DNDPractice-CSharpArrayExercises\obj\Debug\net6.0\DNDPractice-CSharpArrayExercises.csproj.AssemblyReference.cache
+C:\Users\INS 5570\source\repos\DNDPractice-CSharpArrayExercises\DNDPractice-CSharpArrayExercises\obj\Debug\net6.0\DNDPractice-CSharpArrayExercises.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\INS 5570\source\repos\DNDPractice-CSharpArrayExercises\DNDPractice-CSharpArrayExercises\obj\Debug\net6.0\DNDPractice-CSharpArrayExercises.AssemblyInfoInputs.cache
+C:\Users\INS 5570\source\repos\DNDPractice-CSharpArrayExercises\DNDPractice-CSharpArrayExercises\obj\Debug\net6.0\DNDPractice-CSharpArrayExercises.AssemblyInfo.cs
+C:\Users\INS 5570\source\repos\DNDPractice-CSharpArrayExercises\DNDPractice-CSharpArrayExercises\obj\Debug\net6.0\DNDPractice-CSharpArrayExercises.csproj.CoreCompileInputs.cache
+C:\Users\INS 5570\source\repos\DNDPractice-CSharpArrayExercises\DNDPractice-CSharpArrayExercises\obj\Debug\net6.0\DNDPractice-CSharpArrayExercises.dll
+C:\Users\INS 5570\source\repos\DNDPractice-CSharpArrayExercises\DNDPractice-CSharpArrayExercises\obj\Debug\net6.0\refint\DNDPractice-CSharpArrayExercises.dll
+C:\Users\INS 5570\source\repos\DNDPractice-CSharpArrayExercises\DNDPractice-CSharpArrayExercises\obj\Debug\net6.0\DNDPractice-CSharpArrayExercises.pdb
+C:\Users\INS 5570\source\repos\DNDPractice-CSharpArrayExercises\DNDPractice-CSharpArrayExercises\obj\Debug\net6.0\DNDPractice-CSharpArrayExercises.genruntimeconfig.cache
+C:\Users\INS 5570\source\repos\DNDPractice-CSharpArrayExercises\DNDPractice-CSharpArrayExercises\obj\Debug\net6.0\ref\DNDPractice-CSharpArrayExercises.dll
