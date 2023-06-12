@@ -19,10 +19,15 @@
             //Program3 p3 = new Program3();
             //p3.SumOfElementsInArray();
 
-            Console.WriteLine("P4- Copy the elements of one array into another array");
+            //Console.WriteLine("P4- Copy the elements of one array into another array");
+            //Console.WriteLine("----------------------------------------------------------");
+            //Program4 p4 = new Program4();
+            //p4.CopyArrayToAnotherArray();
+
+            Console.WriteLine("P5- Count duplicate elements in an array");
             Console.WriteLine("----------------------------------------------------------");
-            Program4 p4 = new Program4();
-            p4.CopyArrayToAnotherArray();
+            Program5 p5 = new Program5();
+            p5.CountDuplicateElementsInArray();
         }
     }
 }
