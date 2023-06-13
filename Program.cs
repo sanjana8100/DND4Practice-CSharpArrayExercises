@@ -59,10 +59,15 @@
             //Program11 p11 = new Program11();
             //p11.SortArrayInAscendingOrder();
 
-            Console.WriteLine("P12- Sort array elements in descending order");
+            //Console.WriteLine("P12- Sort array elements in descending order");
+            //Console.WriteLine("----------------------------------------------------------");
+            //Program12 p12 = new Program12();
+            //p12.SortArrayInDescendingOrder();
+
+            Console.WriteLine("P13- Insert an additional value into an array (sorted list)");
             Console.WriteLine("----------------------------------------------------------");
-            Program12 p12 = new Program12();
-            p12.SortArrayInDescendingOrder();
+            Program13 p13 = new Program13();
+            p13.InsertElementToSortedArray();
         }
     }
 }
