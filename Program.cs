@@ -39,10 +39,15 @@
             //Program7 p7 = new Program7();
             //p7.MergeTwoArraysInAscendingOrder();
 
-            Console.WriteLine("P8- Count the frequency of each element in an array");
+            //Console.WriteLine("P8- Count the frequency of each element in an array");
+            //Console.WriteLine("----------------------------------------------------------");
+            //Program8 p8 = new Program8();
+            //p8.CountFrequencyOfElementsInArray();
+
+            Console.WriteLine("P9- Find the maximum and minimum elements in an array");
             Console.WriteLine("----------------------------------------------------------");
-            Program8 p8 = new Program8();
-            p8.CountFrequencyOfElementsInArray();
+            Program9 p9 = new Program9();
+            p9.FindMinimumAndMaximumOfArray();
         }
     }
 }
