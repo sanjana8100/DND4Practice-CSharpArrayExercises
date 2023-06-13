@@ -54,10 +54,15 @@
             //Program10 p10 = new Program10();
             //p10.FindOddEvenElementsInArray();
 
-            Console.WriteLine("P11- Sort elements of an array in ascending order");
+            //Console.WriteLine("P11- Sort elements of an array in ascending order");
+            //Console.WriteLine("----------------------------------------------------------");
+            //Program11 p11 = new Program11();
+            //p11.SortArrayInAscendingOrder();
+
+            Console.WriteLine("P12- Sort array elements in descending order");
             Console.WriteLine("----------------------------------------------------------");
-            Program11 p11 = new Program11();
-            p11.SortArrayInAscendingOrder();
+            Program12 p12 = new Program12();
+            p12.SortArrayInDescendingOrder();
         }
     }
 }
