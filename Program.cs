@@ -69,10 +69,15 @@
             //Program13 p13 = new Program13();
             //p13.InsertElementToSortedArray();
 
-            Console.WriteLine("P14- Insert another value in the array (unsorted list)");
+            //Console.WriteLine("P14- Insert another value in the array (unsorted list)");
+            //Console.WriteLine("----------------------------------------------------------");
+            //Program14 p14 = new Program14();
+            //p14.InsertElementToArray();
+
+            Console.WriteLine("P15- Delete an element at the desired position from an array");
             Console.WriteLine("----------------------------------------------------------");
-            Program14 p14 = new Program14();
-            p14.InsertElementToArray();
+            Program15 p15 = new Program15();
+            p15.DeleteElementFromArray();
         }
     }
 }
