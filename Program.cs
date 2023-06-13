@@ -34,10 +34,15 @@
             //Program6 p6 = new Program6();
             //p6.PrintUniqueElementsInArray();
 
-            Console.WriteLine("P7- Merge two arrays of the same size sorted in ascending order");
+            //Console.WriteLine("P7- Merge two arrays of the same size sorted in ascending order");
+            //Console.WriteLine("----------------------------------------------------------");
+            //Program7 p7 = new Program7();
+            //p7.MergeTwoArraysInAscendingOrder();
+
+            Console.WriteLine("P8- Count the frequency of each element in an array");
             Console.WriteLine("----------------------------------------------------------");
-            Program7 p7 = new Program7();
-            p7.MergeTwoArraysInAscendingOrder();
+            Program8 p8 = new Program8();
+            p8.CountFrequencyOfElementsInArray();
         }
     }
 }
