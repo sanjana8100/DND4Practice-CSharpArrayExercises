@@ -79,10 +79,15 @@
             //Program15 p15 = new Program15();
             //p15.DeleteElementFromArray();
 
-            Console.WriteLine("P16- Find the second largest element in an array");
+            //Console.WriteLine("P16- Find the second largest element in an array");
+            //Console.WriteLine("----------------------------------------------------------");
+            //Program16 p16 = new Program16();
+            //p16.FindSecondLargestElementOfArray();
+
+            Console.WriteLine("P17- Find the second smallest element in an array");
             Console.WriteLine("----------------------------------------------------------");
-            Program16 p16 = new Program16();
-            p16.FindSecondLargestElementOfArray();
+            Program17 p17 = new Program17();
+            p17.FindSecondSmallestElementOfArray();
         }
     }
 }
