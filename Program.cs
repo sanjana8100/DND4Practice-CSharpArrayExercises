@@ -24,10 +24,15 @@
             //Program4 p4 = new Program4();
             //p4.CopyArrayToAnotherArray();
 
-            Console.WriteLine("P5- Count duplicate elements in an array");
-            Console.WriteLine("----------------------------------------------------------");
-            Program5 p5 = new Program5();
-            p5.CountDuplicateElementsInArray();
+            //Console.WriteLine("P5- Count duplicate elements in an array");
+            //Console.WriteLine("----------------------------------------------------------");
+            //Program5 p5 = new Program5();
+            //p5.CountDuplicateElementsInArray();
+
+            Console.WriteLine("P6- Print all unique elements in an array");
+            Console.WriteLine("----------------------------------------------------------"); 
+            Program6 p6 = new Program6();
+            p6.PrintUniqueElementsInArray();
         }
     }
 }
