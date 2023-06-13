@@ -44,10 +44,15 @@
             //Program8 p8 = new Program8();
             //p8.CountFrequencyOfElementsInArray();
 
-            Console.WriteLine("P9- Find the maximum and minimum elements in an array");
+            //Console.WriteLine("P9- Find the maximum and minimum elements in an array");
+            //Console.WriteLine("----------------------------------------------------------");
+            //Program9 p9 = new Program9();
+            //p9.FindMinimumAndMaximumOfArray();
+
+            Console.WriteLine("P10- Separate odd and even integers into separate arrays");
             Console.WriteLine("----------------------------------------------------------");
-            Program9 p9 = new Program9();
-            p9.FindMinimumAndMaximumOfArray();
+            Program10 p10 = new Program10();
+            p10.FindOddEvenElementsInArray();
         }
     }
 }
