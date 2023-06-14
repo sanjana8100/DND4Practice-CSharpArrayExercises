@@ -93,9 +93,13 @@
             //Console.WriteLine("----------------------------------------------------------");
             //Program32.GetOddElementsInArray();
 
-            Console.WriteLine("P33- Remove all duplicate elements from a given array and return an updated array.");
+            //Console.WriteLine("P33- Remove all duplicate elements from a given array and return an updated array.");
+            //Console.WriteLine("----------------------------------------------------------");
+            //Program33.RemoveDuplicateElementsInArray();
+
+            Console.WriteLine("P34- Find the missing number in a given array of numbers between 10 and 20");
             Console.WriteLine("----------------------------------------------------------");
-            Program33.RemoveDuplicateElementsInArray();
+            Program34.PrintMissingElementsInArrayBetween10And20();
         }
     }
 }
