@@ -84,10 +84,14 @@
             //Program16 p16 = new Program16();
             //p16.FindSecondLargestElementOfArray();
 
-            Console.WriteLine("P17- Find the second smallest element in an array");
+            //Console.WriteLine("P17- Find the second smallest element in an array");
+            //Console.WriteLine("----------------------------------------------------------");
+            //Program17 p17 = new Program17();
+            //p17.FindSecondSmallestElementOfArray();
+
+            Console.WriteLine("P32- Get only odd values from a given integer array");
             Console.WriteLine("----------------------------------------------------------");
-            Program17 p17 = new Program17();
-            p17.FindSecondSmallestElementOfArray();
+            Program32.GetOddElementsInArray();
         }
     }
 }
