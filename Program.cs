@@ -89,9 +89,13 @@
             //Program17 p17 = new Program17();
             //p17.FindSecondSmallestElementOfArray();
 
-            Console.WriteLine("P32- Get only odd values from a given integer array");
+            //Console.WriteLine("P32- Get only odd values from a given integer array");
+            //Console.WriteLine("----------------------------------------------------------");
+            //Program32.GetOddElementsInArray();
+
+            Console.WriteLine("P33- Remove all duplicate elements from a given array and return an updated array.");
             Console.WriteLine("----------------------------------------------------------");
-            Program32.GetOddElementsInArray();
+            Program33.RemoveDuplicateElementsInArray();
         }
     }
 }
