@@ -97,9 +97,13 @@
             //Console.WriteLine("----------------------------------------------------------");
             //Program33.RemoveDuplicateElementsInArray();
 
-            Console.WriteLine("P34- Find the missing number in a given array of numbers between 10 and 20");
+            //Console.WriteLine("P34- Find the missing number in a given array of numbers between 10 and 20");
+            //Console.WriteLine("----------------------------------------------------------");
+            //Program34.PrintMissingElementsInArrayBetween10And20();
+
+            Console.WriteLine("P35- Calculate the sum of the two lowest negative numbers in a given array of integers");
             Console.WriteLine("----------------------------------------------------------");
-            Program34.PrintMissingElementsInArrayBetween10And20();
+            Program35.SumOfTwoLowestNegativeElementsInArray();
         }
     }
 }
